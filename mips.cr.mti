@@ -1,0 +1,116 @@
+{C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/test.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/test.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/Register.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/Register.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module IRreg
+-- Compiling module Areg
+-- Compiling module Breg
+-- Compiling module ALUreg
+-- Compiling module DMreg
+
+Top level modules:
+	IRreg
+	Areg
+	Breg
+	ALUreg
+	DMreg
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/im.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/im.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_4k
+
+Top level modules:
+	im_4k
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getCtrl.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getCtrl.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module getCtrl
+
+Top level modules:
+	getCtrl
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/dm.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/dm.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_4k
+
+Top level modules:
+	dm_4k
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/npc.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/npc.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module NPC
+
+Top level modules:
+	NPC
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/ext.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/ext.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module EXT
+
+Top level modules:
+	EXT
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/mux.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getState.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module getState
+
+Top level modules:
+	getState
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/alu.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/alu.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/mips.v} {2 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/mips.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module GPRmux
+-- Compiling module ALUmux
+-- Compiling module WDmux
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ByteSrcmux
+** Warning: (vlog-6) -- Waiting for lock by "lbyto@LAPTOP-SPHQLVV6, pid = 11732
+". Lockfile is "C:\Users\lbyto\OneDrive\2018-2019-2\Project 3\work/_lock".
+
+-- Compiling module ex_lb
+
+Top level modules:
+	GPRmux
+	ALUmux
+	WDmux
+	ByteSrcmux
+	ex_lb
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getState.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getState.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module getState
+
+Top level modules:
+	getState
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/pc.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/pc.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/gpr.v} {1 {vlog -work work -vopt {C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/gpr.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+
+} {} {}}

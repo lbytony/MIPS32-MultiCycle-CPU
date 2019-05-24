@@ -1,0 +1,462 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\lbyto\OneDrive\Project3
+T_opt
+Vb;iQ9T5;>I@Lmn8]lI^aA1
+04 4 4 work test fast 0
+=1-84a93e3a0bb4-5ce78bca-1ac-2454
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+vALU
+I[omzFoU6V0n>V77454bU@3
+VGz1LZUa1N6;K^KXDnk<NP2
+Z0 dC:\Users\lbyto\OneDrive\2018-2019-2\Project 3
+w1558630798
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/alu.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/alu.v
+L0 1
+Z1 OE;L;10.1a;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!s100 j>hJzU;G`RR>6_ca628SD0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/alu.v|
+!s108 1558678458.942000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/alu.v|
+!i10b 1
+!s85 0
+vALUmux
+IPjX]EPPYFPjPTO=VbzT9C0
+VL@Z0HbQGKQ4d4VDYA2f5O0
+Z3 dC:\Users\lbyto\OneDrive\2018-2019-2\Project 3
+Z4 w1558644870
+Z5 8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/mux.v
+Z6 FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/mux.v
+L0 15
+R1
+r1
+31
+Z7 !s108 1558678459.991000
+Z8 !s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/mux.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/mux.v|
+R2
+n@a@l@umux
+!s100 V`ImEHJDQVAannj5QQcDW1
+!i10b 1
+!s85 0
+vALUreg
+IHVWe7d8HjFm`8UC`BOQLg2
+VfZ@P>WAll_e_bjC4;PY250
+R3
+Z10 w1558644457
+Z11 8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/Register.v
+Z12 FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/Register.v
+L0 29
+R1
+r1
+31
+Z13 !s108 1558678460.660000
+Z14 !s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/Register.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/Register.v|
+R2
+n@a@l@ureg
+!s100 A9P8N6dDn48DRHjOW9meN3
+!i10b 1
+!s85 0
+vAreg
+IkB5N1j2;?;a8dDbiX2G8C1
+VEI1^fzZkioMZ?eofndTA_2
+R3
+R10
+R11
+R12
+L0 11
+R1
+r1
+31
+R13
+R14
+R15
+R2
+n@areg
+!s100 >E6f:Sm7NRX07cRE`HKM72
+!i10b 1
+!s85 0
+vBreg
+I_9PCKjCjZM=cLE<abkZ0E1
+VL@M]>^Pli1V<BR2::dE781
+R3
+R10
+R11
+R12
+L0 20
+R1
+r1
+31
+R13
+R14
+R15
+R2
+n@breg
+!s100 SnB;eUS`75X[7m3bGgZTP0
+!i10b 1
+!s85 0
+vBytemux
+IlKGk1@]`l5NUcI<fGagXB0
+V[5UciSb_jiobFDZOhdBAV3
+R3
+w1558623362
+R5
+R6
+L0 49
+R1
+r1
+31
+R8
+R9
+R2
+n@bytemux
+!s108 1558644508.785000
+!s100 aJD9GbNdBI]163U8BKhbd0
+!i10b 1
+!s85 0
+vByteSrcmux
+IiT8Ui;iHYUTdB9JZ@hDlP2
+VhRZKg@NLO[Ig<2^7AfYm:2
+R3
+R4
+R5
+R6
+L0 36
+R1
+r1
+31
+R7
+R8
+R9
+R2
+n@byte@srcmux
+!s100 f_`WN986:m5Rz]j7UIb_S1
+!i10b 1
+!s85 0
+vdm_4k
+I5JYF3z@i<?hBi2XGJLob^3
+V83jEmoeVa9>i;JoPRo41Y0
+R3
+w1558678211
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/dm.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/dm.v
+L0 1
+R1
+r1
+31
+R2
+!s100 ;m3RfPDeFRNn=XVH7<`NP1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/dm.v|
+!s108 1558678459.067000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/dm.v|
+!i10b 1
+!s85 0
+vDMreg
+IBc[UTfd1L5BQC@jWGeHNC2
+VDenf<bMkTZnK3ZLZm:5fe1
+R3
+R10
+R11
+R12
+L0 39
+R1
+r1
+31
+R13
+R14
+R15
+R2
+n@d@mreg
+!s100 cbDFm5VkF`5a8Q1kR@zWf3
+!i10b 1
+!s85 0
+vex_lb
+IO@Y4<BJocQ1LPN_nT0lC@2
+VdK43cQjD7X7cWk>i48jKk1
+R3
+R4
+R5
+R6
+L0 49
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 ADdX:Oa@U3gG<eF^?OH=71
+!i10b 1
+!s85 0
+vEXT
+I>o;SVPjNB5W0ShNQzin^o1
+VSkBC1aBn736aH>HflV2bI1
+R3
+w1558624087
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/ext.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/ext.v
+L0 1
+R1
+r1
+31
+R2
+n@e@x@t
+!s100 UzhNCLz`Mo7O0_ZXbJ4ag0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/ext.v|
+!s108 1558678459.187000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/ext.v|
+!i10b 1
+!s85 0
+vgetCtrl
+Iz:[=ZeaMENcQ5eG<bgV:H1
+VOBPLf5Rkl2c@R_ZM`6JO80
+R3
+w1558641108
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getCtrl.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getCtrl.v
+L0 1
+R1
+r1
+31
+R2
+nget@ctrl
+!s100 cjjJFg^S7d<^JAD`7SjBI1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getCtrl.v|
+!s108 1558678460.862000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getCtrl.v|
+!i10b 1
+!s85 0
+vgetState
+IeC=a84Rd?5j0S_GOmP_II0
+VGR<S2PGQ3BCPS`35j1WLQ3
+R3
+w1558677445
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getState.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getState.v
+L0 1
+R1
+r1
+31
+R2
+nget@state
+!s100 Df?Xk@Q>g^=2mZAY?h<<40
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getState.v|
+!i10b 1
+!s85 0
+!s108 1558678460.997000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/control/getState.v|
+vGPR
+InHW5@XK@fVmQM3SGYSajj2
+Vf5VL4P0Jnh:nS3;`Vb2`V3
+R3
+w1558636901
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/gpr.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/gpr.v
+L0 1
+R1
+r1
+31
+R2
+n@g@p@r
+!s100 KmaCL2:SW6GFQ>jSAg^^K0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/gpr.v|
+!s108 1558678459.690000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/gpr.v|
+!i10b 1
+!s85 0
+vGPRmux
+IaOTWHRBU[]^>5MHSLNiB_2
+VKnhH;fR=QB@3m[@YIK]UX0
+R3
+R4
+R5
+R6
+L0 1
+R1
+r1
+31
+R7
+R8
+R9
+R2
+n@g@p@rmux
+!s100 XEGSWV@gnUWV6LSlloL@h0
+!i10b 1
+!s85 0
+vIM
+IDN_KcfQjg4B_j][L9YWD93
+Vc[[gWQWGWI6oQWS>R:KA82
+dc:\Users\lbyto\OneDrive\2018-2019-2\Project 3
+w1558005401
+8c:\Users\lbyto\OneDrive\2018-2019-2\Project 3\datapath\im.v
+Fc:\Users\lbyto\OneDrive\2018-2019-2\Project 3\datapath\im.v
+L0 1
+R1
+r1
+31
+o-nologo -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@i@m
+!s100 `Q6HDU3_Z0:SL6^HzI]Kh2
+!s90 -nologo|-work|work|c:\Users\lbyto\OneDrive\2018-2019-2\Project 3\datapath\im.v|
+!s108 1558330696.188000
+!s107 c:\Users\lbyto\OneDrive\2018-2019-2\Project 3\datapath\im.v|
+!i10b 1
+!s85 0
+vim_4k
+I3MNb3^O6kO7;aOGUR@njn3
+V7NIR5eTHWjMZ=;2IILG`M3
+R3
+w1558622638
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/im.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/im.v
+L0 1
+R1
+r1
+31
+R2
+!s100 G[3XJj:zNWH;EN6NA?<KW3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/im.v|
+!s108 1558678459.315000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/im.v|
+!i10b 1
+!s85 0
+vIRreg
+IO_C:QIKOaX4;<K[5ao<SJ3
+VzS7@IlL<n?7Hbo7mgazG41
+R3
+R10
+R11
+R12
+L0 1
+R1
+r1
+31
+R13
+R14
+R15
+R2
+n@i@rreg
+!s100 <hdC7TP6Z09>g9`zIF:_b2
+!i10b 1
+!s85 0
+vmips
+IPmAi4AhPz1RzfPld:ggbm0
+V^lO[ZOI0I1e8M8GJjI9B:3
+R3
+w1558647149
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/mips.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/mips.v
+L0 1
+R1
+r1
+31
+R2
+!s100 iUJIbaWN]AEf@1`@2CIRX3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/mips.v|
+!s108 1558678454.590000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/mips.v|
+!i10b 1
+!s85 0
+vNPC
+I9TefIZ[CEK2P9CWH;;FbX2
+VnWgl7CSaE<3n2_fc58Ob?2
+R3
+w1558638962
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/npc.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/npc.v
+L0 1
+R1
+r1
+31
+R2
+n@n@p@c
+!s100 _e=g9eMSURb?ZNJ@@>9`o3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/npc.v|
+!s108 1558678459.444000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/npc.v|
+!i10b 1
+!s85 0
+vPC
+I_dlNcDaf14DncEJ5KaRzb1
+VHEhTW@XeQPU:ogITf[QDj1
+R3
+w1558636492
+Z16 8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/pc.v
+Z17 FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/pc.v
+L0 1
+R1
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/pc.v|
+R2
+n@p@c
+Z19 !s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/datapath/pc.v|
+!s100 zKKnji3jOLjcnYC>U]>UL0
+!s108 1558678459.570000
+!i10b 1
+!s85 0
+vpc
+I[WkA1@d?F5@aD:T[?oe3m1
+V>GSc`QKYOd84AZlXW:B9`3
+R3
+w1558536202
+R16
+R17
+L0 1
+R1
+r1
+31
+R18
+R2
+R19
+!s100 jIf_@XhVNoHFL`e:WYV^Y0
+!s108 1558622642.673000
+!i10b 1
+!s85 0
+vtest
+I8<P0_P;XeS>3f:gDlfA4N1
+Vk<3<[f=78GX=_HO53D;7>3
+R3
+w1558635307
+8C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/test.v
+FC:/Users/lbyto/OneDrive/2018-2019-2/Project 3/test.v
+L0 1
+R1
+r1
+31
+R2
+!s100 lh@imNN813FS@QdYG:Jd;0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/test.v|
+!s108 1558678455.718000
+!s107 C:/Users/lbyto/OneDrive/2018-2019-2/Project 3/test.v|
+!i10b 1
+!s85 0
+vWDmux
+IZh8lQ4hk6GnW5Ja9mL4Mb0
+V4aoSc4hQ@Ae;nZTjabjSz2
+R3
+R4
+R5
+R6
+L0 22
+R1
+r1
+31
+R7
+R8
+R9
+R2
+n@w@dmux
+!s100 eSE`3fL=@`<o3zD0=gMkn1
+!i10b 1
+!s85 0
